@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: DeVt          # the main title
+title: DevTrec          # the main title
 
-tagline: "Programmer with knowledge in C, C++, and Python"  # it will display as the sub-title
+tagline: "Develop, Trade, and Economics. Programmer with knowledge in C, C++, and Python"  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
