@@ -1,20 +1,11 @@
 ---
 title: Forager 모작(1) 오늘할일
-author: Cotes Chung
-date: 2020-09-28 10:22:00 +0800
-categories: [Project, Forager]
-tags: [forager]
-image: /assets/img/posts/forager.jpg
----
-
-<!-- ---
-title: Forager 모작(1) 오늘할일
 author: Kijung Luke Kim
 date: 2020-09-28 10:22:00 +0800
 categories: [Project, Forager]
 tags: [forager]
 image: /assets/img/posts/forager.jpg
---- -->
+---
 
 제대로 작동해라 제발 좀.
 
