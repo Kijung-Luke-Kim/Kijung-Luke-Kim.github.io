@@ -9,6 +9,10 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.6.1"
 end
 
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'tzinfo'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+
 group :test do
   gem "html-proofer"
 end
