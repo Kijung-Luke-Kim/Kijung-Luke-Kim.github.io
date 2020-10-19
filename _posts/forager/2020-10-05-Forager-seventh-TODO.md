@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forager 모작 - 오늘할일"
+title:  "Forager 모작(7) - 오늘할일"
 date:   2020-10-05T09:00:00+0900
 author: Kijung Luke Kim
 categories: [Project, Forager]

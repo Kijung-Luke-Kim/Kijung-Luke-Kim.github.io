@@ -1,5 +1,5 @@
 ---
-title: "Forager 모작 - 오늘할일"
+title: "Forager 모작(1) - 오늘할일"
 author: Kijung Luke Kim
 date: 2020-09-28 10:22:00 +0900
 categories: [Project, Forager]
