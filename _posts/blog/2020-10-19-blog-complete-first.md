@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "blog - 오늘한일"
-date:   2020-10-19 05:00:00 +0900
+date:   2020-10-19 17:00:00 +0900
 author: Kijung Luke Kim
 categories: [Project, Blog]
 tags: [whatididtoday]
