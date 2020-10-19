@@ -4,7 +4,7 @@ title:  "blog - 오늘할일"
 date:   2020-10-19 09:00:00 +0900
 author: Kijung Luke Kim
 categories: [Project, Blog]
-tags: [whattodotoday, unemployed]
+tags: [whattodotoday]
 ---
 
 ## 1. 깃허브 관리
