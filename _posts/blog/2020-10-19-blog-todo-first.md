@@ -20,3 +20,9 @@ tags: [whattodotoday, unemployed]
 - 효성그룹, KAI 자기소개서 작성
 
 - 졸업논문 작성
+
+## 3. 블로그 관리
+
+- Recent Update 안뜨는 버그 수정
+
+- 알고리즘 테스트 관련 포스트 업로드
