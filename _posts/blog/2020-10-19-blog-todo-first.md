@@ -14,6 +14,8 @@ tags: [whattodotoday, unemployed]
 
 - 이전 프로젝트 README 작성
 
+- Forager 프로젝트 중간 검토
+
 ## 2. 취업준비
 ---
 
@@ -22,6 +24,7 @@ tags: [whattodotoday, unemployed]
 - 졸업논문 작성
 
 ## 3. 블로그 관리
+---
 
 - Recent Update 안뜨는 버그 수정
 
