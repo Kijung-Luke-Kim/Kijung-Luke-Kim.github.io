@@ -10,7 +10,8 @@ image: /assets/img/posts/forager.jpg
 ## 깃허브 블로그 수정
 ---
 
-- 사용할 재킬 테마 탐색 
+- 사용할 재킬 테마 탐색
+- 재킬 블로그 설치 방법 학습
 
 ## Forager 모작 기획서 작성 
 ---
