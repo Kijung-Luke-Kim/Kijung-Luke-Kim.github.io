@@ -7,9 +7,13 @@ categories: [Project, Forager]
 tags: [game, forager]
 image: /assets/img/posts/forager.jpg
 ---
-1. Forager 리소스 확보
+## Forager 리소스 확보
+---
 
-2. 재설계한 클래스 구조에 맞춰 기존 Forager 모작 맵툴 코드 수정
+## 재설계한 클래스 구조에 맞춰 기존 Forager 모작 맵툴 
+---
+
+- 코드 수정
     - 맵 클래스 수정
     - 타일 구조체 수정
     - 코드 최적화

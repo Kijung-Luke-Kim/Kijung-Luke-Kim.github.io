@@ -7,11 +7,16 @@ categories: [Project, Forager]
 tags: [game, forager]
 image: /assets/img/posts/forager.jpg
 ---
-1. Forager 리소스 확보 (진행중)
-- 던전 타일 이미지 확보
-- 각종 몬스터 스프라이트 이미지 확보
+## Forager 리소스 확보 (진행중)
+---
 
-2. 재설계한 클래스 구조에 맞춰 기존 Forager 모작 맵툴 코드 수정
+   - 던전 타일 이미지 확보
+   - 각종 몬스터 스프라이트 이미지 확보
+
+## 재설계한 클래스 구조에 맞춰 기존 Forager 모작 맵툴 
+---
+
+- 코드 수정
     - 맵 클래스 수정 (완료)
     - 타일 구조체 수정 (완료)
     - 코드 최적화 (진행중)
