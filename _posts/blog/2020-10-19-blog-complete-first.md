@@ -1,5 +1,5 @@
 ---
-title:  "2020/10/19 - 오늘한일"
+title:  "blog - 오늘한일(1)"
 date:   2020-10-19 17:00:00 +0900
 author: Kijung Luke Kim
 categories: [Project, Blog]
