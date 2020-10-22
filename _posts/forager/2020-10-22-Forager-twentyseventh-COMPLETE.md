@@ -16,9 +16,9 @@ image: /assets/img/posts/forager.jpg
 - Demon 공격 이펙트 모션 추가 (완료!)
   
 - Demon 생성 조건 추가 (완료!)
-![20201022-1.png](/assets/img/posts/20201022-1.png)
+![20201022-1.PNG](/assets/img/posts/20201022-1.PNG)
 - 굴뚝 연기 추가 (완료!)
-![20201022-2.png](/assets/img/posts/20201022-2.png)
+![20201022-2.PNG](/assets/img/posts/20201022-2.PNG)
 
 ## 2. 문서화 (진행중)
 ---
