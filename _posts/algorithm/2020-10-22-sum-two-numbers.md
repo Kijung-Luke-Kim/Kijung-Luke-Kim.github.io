@@ -1,7 +1,7 @@
 ---
 title: "프로그래머스 Lv.1 - 두 개 뽑아서 더하기"
 author: Kijung Luke Kim
-date: 2020-10-22 12:00:00 +0900
+date: 2020-10-22 13:00:00 +0900
 categories: [Algorithm, Programmers]
 tags: [sort]
 image: /assets/img/posts/algorithm.png
