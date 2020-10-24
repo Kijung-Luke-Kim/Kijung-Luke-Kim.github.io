@@ -13,7 +13,7 @@ image: /assets/img/posts/forager.jpg
 - 문서작성
 
   - 영상 촬영 및 발표 문서 작성 완료
-  > 유튜브 링크: https://youtu.be/l7npja4PU4M
+  > 유튜브 링크: https://youtu.be/LDImSS_e2y4
 
 - 타겟팅 거리는 유닛 이미지의 width, height을 포함한 거리부터 2타일 이내로 변경
 
