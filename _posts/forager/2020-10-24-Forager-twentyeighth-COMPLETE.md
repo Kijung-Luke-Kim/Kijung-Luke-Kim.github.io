@@ -29,4 +29,4 @@ image: /assets/img/posts/forager.jpg
 
 - 레밸업 이펙트와 상자열때 이펙트 추가
   
-  ![20201024-1.PNG](/assets/img/posts/20201024-1.PNG)
+  ![20201024-1.png](/assets/img/posts/20201024-1.png)
