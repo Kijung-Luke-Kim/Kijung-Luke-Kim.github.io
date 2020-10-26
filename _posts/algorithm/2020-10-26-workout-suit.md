@@ -1,6 +1,6 @@
 ---
 title:  "프로그래머스 Lv.1 - 체육복"
-date:   2020-10-26 12:00:00 +0900
+date:   2020-10-26 09:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
 tags: [greedy]
