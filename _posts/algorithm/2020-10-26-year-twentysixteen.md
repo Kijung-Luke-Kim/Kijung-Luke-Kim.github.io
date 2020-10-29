@@ -10,7 +10,7 @@ image: /assets/img/posts/algorithm.png
 ## 문제 설명
 ---
 
-> https://programmers.co.kr/learn/courses/30/lessons/12901
+> https://programmers.co.kr/learn/courses/30/lessons/12901 
 
 ## 문제풀이
 ---
