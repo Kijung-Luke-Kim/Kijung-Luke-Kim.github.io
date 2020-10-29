@@ -1,6 +1,6 @@
 ---
-title:  "프로그래머스 Lv.1 - 2016년"
-date:   2020-10-26 18:00:00 +0900
+title:  "프로그래머스 Lv.1 - 가운데 글자 가져오기"
+date:   2020-10-28 18:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
 tags: [practice]
