@@ -16,11 +16,6 @@ image: /assets/img/posts/algorithm.png
 ---
 
 ```cpp
-#include <string>
-#include <vector>
-
-using namespace std;
-
 string solution(string s) {
     string answer = "";
     //홀수
