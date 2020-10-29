@@ -1,5 +1,5 @@
 ---
-title:  "프로그래머스 Lv.1 - 2016asdasd년"
+title:  "프로그래머스 Lv.1 - test"
 date:   2020-10-26 18:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
