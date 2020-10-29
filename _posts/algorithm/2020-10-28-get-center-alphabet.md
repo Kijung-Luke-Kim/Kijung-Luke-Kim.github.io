@@ -26,8 +26,8 @@ image: /assets/img/posts/algorithm.png
 
 |s|return|
 |---|---|
-|"abcde"|"c"|
-|"qwer"|"we"|
+|abcde|c|
+|qwer|we|
 
 ## 문제풀이
 ---
