@@ -1,6 +1,6 @@
 ---
 title:  "프로그래머스 Lv.1 - 가운데 글자 가져오기"
-date:   2020-10-28 18:00:00 +0900
+date:   2020-10-28 09:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
 tags: [practice]
@@ -10,7 +10,7 @@ image: /assets/img/posts/algorithm.png
 ## 문제 설명
 ---
 
-> https://programmers.co.kr/learn/courses/30/lessons/12903 
+> https://programmers.co.kr/learn/courses/30/lessons/12903
 
 ## 문제풀이
 ---
