@@ -1,5 +1,5 @@
 ---
-title:  "프로그래머스 Lv.1 - 같은 숫자는 싫어"
+title:  "Programmers Lv.1 - 같은 숫자는 싫어"
 date:   2020-10-29 09:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
