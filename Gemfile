@@ -13,6 +13,6 @@ end
 gem 'tzinfo'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
-# group :test do
-#   gem "html-proofer"
-# end
+group :test do
+  gem "html-proofer"
+end
