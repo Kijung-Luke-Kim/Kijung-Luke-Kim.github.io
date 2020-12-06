@@ -2,7 +2,7 @@
 title:  "프로그래머스 Lv.1 - 2016년"
 date:   2020-10-26 18:00:00 +0900
 author: Kijung Luke Kim
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [practice]
 image: /assets/img/posts/algorithm.png
 ---

@@ -2,7 +2,7 @@
 title: "프로그래머스 Lv.1 - 크레인 인형뽑기 게임"
 author: Kijung Luke Kim
 date: 2020-10-18 22:00:00 +0900
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [kakao]
 image: /assets/img/posts/algorithm.png
 ---

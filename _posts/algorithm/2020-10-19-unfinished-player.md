@@ -2,7 +2,7 @@
 title: "프로그래머스 Lv.1 - 완주하지 못한 선수"
 author: Kijung Luke Kim
 date: 2020-10-19 12:00:00 +0900
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [hash]
 image: /assets/img/posts/algorithm.png
 ---

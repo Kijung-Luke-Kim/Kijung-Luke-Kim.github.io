@@ -2,7 +2,7 @@
 title:  "프로그래머스 Lv.1 - 정수 내림차순으로 배치하기"
 date:   2020-11-17 09:00:00 +0900
 author: Kijung Luke Kim
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [practice]
 image: /assets/img/posts/algorithm.png
 ---

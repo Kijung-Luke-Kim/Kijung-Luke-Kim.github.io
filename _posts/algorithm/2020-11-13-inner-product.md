@@ -2,7 +2,7 @@
 title:  "프로그래머스 Lv.1 - 내적"
 date:   2020-11-13 12:00:00 +0900
 author: Kijung Luke Kim
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [monthlycodechallenge, season1]
 image: /assets/img/posts/algorithm.png
 ---

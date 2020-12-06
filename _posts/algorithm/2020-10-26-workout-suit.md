@@ -2,7 +2,7 @@
 title:  "프로그래머스 Lv.1 - 체육복"
 date:   2020-10-26 09:00:00 +0900
 author: Kijung Luke Kim
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [greedy]
 image: /assets/img/posts/algorithm.png
 ---

@@ -2,7 +2,7 @@
 title:  "프로그래머스 Lv.1 - [카카오 인턴] 키패드 누르기"
 date:   2020-11-23 09:00:00 +0900
 author: Kijung Luke Kim
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [kakao]
 image: /assets/img/posts/algorithm.png
 ---

@@ -2,7 +2,7 @@
 title:  "프로그래머스 Lv.1 - [1차] 비밀지도"
 date:   2020-12-03 09:00:00 +0900
 author: Kijung Luke Kim
-categories: [Algorithm, Programmers]
+categories: [Algorithm, Programmers, Level1]
 tags: [kakao]
 image: /assets/img/posts/algorithm.png
 ---
