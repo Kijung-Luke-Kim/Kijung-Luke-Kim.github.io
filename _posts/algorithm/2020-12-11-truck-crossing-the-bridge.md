@@ -1,6 +1,6 @@
 ---
 title:  "프로그래머스 Lv.2 - 다리를 지나는 트럭"
-date:   2020-12-10 09:00:00 +0900
+date:   2020-12-11 09:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
 tags: [stack, queue]
