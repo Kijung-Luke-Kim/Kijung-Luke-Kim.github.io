@@ -1,10 +1,10 @@
 ---
-title: "모바일 RPG 개발(1) - 오늘할일"
+title: "Unity 모바일 RPG 개발(1) - 오늘할일"
 author: Kijung Luke Kim
-date: 2020-12-14 09:00:00 +0900
+date: 2020-12-14 09:30:00 +0900
 categories: [Project, Unity, MobileRPG]
 tags: [mobileRPG]
-image: /assets/img/posts/forager.jpg
+image: /assets/img/posts/Unity.png
 ---
 
 ##	기획팀 기획서 초안 검토 및 회의
