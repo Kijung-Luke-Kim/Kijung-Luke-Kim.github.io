@@ -1,6 +1,6 @@
 ---
 title:  "프로그래머스 Lv.2 - 후보키"
-date:   2021-01-23 09:00:00 +0900
+date:   2021-01-24 09:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
 tags: [kakao]
