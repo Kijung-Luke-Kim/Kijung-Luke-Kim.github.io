@@ -18,61 +18,58 @@ image: /assets/img/posts/algorithm.png
 ```cpp
 #include <string>
 #include <vector>
+#include <map>
+#include <cstring>
 #include <iostream>
-
+#include <algorithm>
 using namespace std;
 
-string dtos(int a) {
-    string result = "";
-    switch (a-9) {
-        case 1:
-            result.push_back('A');
-            break;
-        case 2:
-            result.push_back('B');
-            break;
-        case 3:
-            result.push_back('C');
-            break;
-        case 4:
-            result.push_back('D');
-            break;
-        case 5:
-            result.push_back('E');
-            break;
-        case 6:
-            result.push_back('F');
-            break;
-        default:
-            result.append(to_string(a));
-            break;
-    }
-    return result;
+map<string, int> menus;
+bool selected[10] = { false, };
+
+void DFS(string order, int idx, int cnt, int size) {
+	if (cnt == size) {
+		string comb;
+		for (int i = 0; i < order.size(); i++) {
+			if (selected[i]) comb += order[i];
+		}
+		menus[comb] += 1;
+		return;
+	}
+	for (int i = idx; i < order.size(); i++) {
+		if (selected[i]) continue;
+		selected[i] = true;
+
+		DFS(order, i, cnt + 1, size);
+
+		selected[i] = false;
+	}
 }
 
-string solution(int n, int t, int m, int p) {
-    string answer = "";
-    string response = "";
-    for (int i = 0; i < t*m; i++) {
-        int div = i / n;
-        int res = i % n;
-        string sRes = dtos(res);
-        while (true) {
-            if (div == 0) break;
-            else {
-                res = div % n;
-                div = div / n;   
-                sRes += dtos(res);
-            }
-        }
-        while (sRes.size() > 0) {
-            response.push_back(sRes.back());
-            sRes.pop_back();
-        }
-    }
-    for (int i = p-1; i < t*m; i = i+m) {
-        answer.push_back(response[i]);
-    }
-    return answer;
+vector<string> solution(vector<string> orders, vector<int> course) {
+	vector<string> answer;
+	map<int, int> maxSize;
+
+	for (int i = 0; i < orders.size(); i++) {
+		for (int j = 0; j < course.size(); j++) {
+			if (course[j] > orders[i].size()) break;
+			sort(orders[i].begin(), orders[i].end());
+			DFS(orders[i], 0, 0, course[j]);
+			memset(selected, false, 10 * sizeof(bool));
+		}
+	}
+
+	for (auto menu = menus.begin(); menu != menus.end(); ++menu) {
+		if (menu->second > 1 && menu->second > maxSize[menu->first.size()]) {
+			maxSize[menu->first.size()] = menu->second;
+		}
+	}
+	for (auto menu = menus.begin(); menu != menus.end(); ++menu) {
+		if (menu->second == maxSize[menu->first.size()]) {
+			answer.push_back(menu->first);
+		}
+	}
+
+	return answer;
 }
 ```
