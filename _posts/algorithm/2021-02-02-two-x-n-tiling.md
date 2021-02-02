@@ -1,6 +1,6 @@
 ---
-title:  "프로그래머스 Lv.3 - N으로 표현"
-date:   2021-02-01 09:00:00 +0900
+title:  "프로그래머스 Lv.3 - 2 x n 타일링"
+date:   2021-02-02 09:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
 tags: [dp]
