@@ -3,7 +3,7 @@ title:  "프로그래머스 Lv.3 - 야근 지수"
 date:   2021-02-27 08:00:00 +0900
 author: Kijung Luke Kim
 categories: [Algorithm, Programmers]
-tags: [practiec, binarysearch]
+tags: [practice, binarysearch]
 image: /assets/img/posts/algorithm.png
 ---
 
